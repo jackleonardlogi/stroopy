@@ -4,9 +4,7 @@ A simple Stroop Task programmed using PsychoPy
 [![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/re8i-CZwREI/0.jpg)](https://www.youtube.com/watch?v=re8i-CZwREI)
 
 
-## Instructions
-- [x] Swedish
-- [x] English
+
 
 
 Instructions (both English and Swedish) are found in the file "INSTRUCTIONS". This file is read and parsed by some
